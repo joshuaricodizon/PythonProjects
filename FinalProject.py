@@ -2,9 +2,6 @@ print("Welcome to the random password generator.")
 name= input("What is your name?")
 print("Welcome" +name)
 
-
-
-
 import random
 import string
 
